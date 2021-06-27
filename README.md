@@ -8,7 +8,7 @@ This part of the challenge was performed in MySql Workbench.
 
 This part of the challenge I choose to work on visualizations in Tableau. [TABLEAU LINK](https://public.tableau.com/app/profile/prebitha.staphney.abraham/viz/TR-Task/Dashboard1)
 
-![2021-06-28 (4)](https://user-images.githubusercontent.com/81169091/123560855-25484100-d7a5-11eb-8bfa-f51d7f9bd53e.png)
+![2021-06-28 (5)](https://user-images.githubusercontent.com/81169091/123560871-4446d300-d7a5-11eb-8f0a-d89e8d51422a.png)
 
 
 ### TASK 3 : CLUSTER CUSTOMERS
