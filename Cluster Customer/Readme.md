@@ -5,7 +5,7 @@
 
 In this task we have to get deeper into the data and understand the customer by segmenting them into different group and therefore we will cluster them using KMeans
 
-This Task is Split this task into two sections 
+This Task is Split into two sections 
 
 ## SECTION 1. Using KMeans to predict Cluster the customers. 
 
