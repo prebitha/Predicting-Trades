@@ -1,6 +1,6 @@
 # DATA SCIENCE CHALLENGE
 
-![image](https://user-images.githubusercontent.com/81169091/123562574-d6ec6f80-d7af-11eb-8178-f51f65087b8e.png)
+![image](https://user-images.githubusercontent.com/81169091/123562613-1c10a180-d7b0-11eb-898a-7bdb6f9a4ed9.png)
 
 
 ### TASK 1: ADVANCED SQL
