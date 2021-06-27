@@ -1,5 +1,8 @@
 # Cluster Customer
 
+![image](https://user-images.githubusercontent.com/81169091/123562728-d99b9480-d7b0-11eb-910d-a1def0fdffe9.png)
+
+
 In this task we have to get deeper into the data and understand the customer by segmenting them into different group and therefore we will cluster them using KMeans
 
 This Task is Split this task into two sections 
