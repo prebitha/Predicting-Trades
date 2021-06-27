@@ -1,4 +1,4 @@
-# ADVANCED SQL - <img src="https://www.sqlservertutorial.net/wp-content/uploads/sql-server-basics.svg" width="100" height="100">
+# ADVANCED SQL - <img src="https://www.sqlservertutorial.net/wp-content/uploads/sql-server-basics.svg" width="100" height="100" width='50'>
 
 
 
