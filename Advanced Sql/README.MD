@@ -15,5 +15,5 @@
         partition by extract(month from execution_time)
         order by day(execution_time)
     ) as Monthly_Users
-from trades
-group by date(execution_time); ```
+    from trades
+    group by date(execution_time); ```
