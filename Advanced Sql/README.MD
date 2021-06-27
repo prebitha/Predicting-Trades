@@ -1,5 +1,6 @@
 # ADVANCED SQL
 - ![image](https://www.sqlservertutorial.net/wp-content/uploads/sql-server-basics.svg |width =100)
+- <img src="https://www.sqlservertutorial.net/wp-content/uploads/sql-server-basics.svg" width="100" height="100">
 
 
 - [X] An Sql query which returns columns with date, daily, weekly(rolling 7 day window) and monthly(rolling 30 day window) trading users for the last 30 days from current day.
