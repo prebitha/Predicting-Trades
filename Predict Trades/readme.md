@@ -3,6 +3,8 @@
 
 ### OBJECTIVE : we want to predict the Number of Trades a customer will make after 6 months of trading 
 
+you will find two jupyter notebook files, one predicting number trades for all customers together and the other one for a single customer ( I used cutomer with id 6276 )
+
 ## APPROACH : 
 
 
@@ -51,4 +53,9 @@ FINALLY - so now we will train the model and test it to predict the number of tr
 
 ![2021-06-26 (22)](https://user-images.githubusercontent.com/81169091/123558867-edd39780-d798-11eb-9a84-676482590db8.png)
 ![2021-06-26 (29)](https://user-images.githubusercontent.com/81169091/123558869-f62bd280-d798-11eb-8ab0-f5d68bcdb84c.png)
+
+## CONCLUSION 
+
+The data tells us that our model is about close to the actual number of trades in September. If we can more time series data then we can train the model better and thus a better prediction.
+The data predicts a higher number of trades as in the case of Customer 6276 we can that he/she is predicted to more trades.
 
