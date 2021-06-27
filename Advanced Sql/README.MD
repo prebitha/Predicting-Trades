@@ -1,6 +1,6 @@
 # ADVANCED SQL - <img src="https://www.sqlservertutorial.net/wp-content/uploads/sql-server-basics.svg" width="100" height="50" width='50'>
 
-[image](https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
+![image](https://user-images.githubusercontent.com/81169091/123560156-f0d28600-d7a0-11eb-8433-b9666bed5731.png)
 
 
 
