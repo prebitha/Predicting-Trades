@@ -22,10 +22,13 @@ Since TR makes money from trades our ideal customer will be the ones making the 
 
 ![2021-06-27 (8)](https://user-images.githubusercontent.com/81169091/123558250-8c5df980-d795-11eb-9351-aeb5c49a59b0.png)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ## SECTION 2. Analysis on the Clustered Customers.
  
 
-- [X] PART 1 - CLUSTERED CUSTOMER PERFORMANCE 
+- [X] **PART 1 - CLUSTERED CUSTOMER PERFORMANCE**
+- 
 Cluster 1 is the our cluster of our ideal customers and we can see that they are the ones with the high Volume of trades throughout 
 
 ![2021-06-27 (16)](https://user-images.githubusercontent.com/81169091/123558280-bfa08880-d795-11eb-8f46-da2a4decce26.png)
@@ -34,6 +37,7 @@ Cluster 1 is the our cluster of our ideal customers and we can see that they are
 
 Customers clustered in cluster_id 0 are the largest number of active users followed by cluster_id 3.
 And customer with cluster_id 1 come in at 3rd place and from a marketing view we would want to improve these numbers to make more profit
+
 ![2021-06-27 (18)](https://user-images.githubusercontent.com/81169091/123558309-e363ce80-d795-11eb-94c5-02515aa5881b.png)
 
 - [X] PART 3 - PATTERN IN TRADE TIMING
