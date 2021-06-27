@@ -1,12 +1,20 @@
 # DATA SCIENCE CHALLENGE
 
-PART 1: ADVANCED SQL
+TASK 1: ADVANCED SQL
 
 This part of the challenge was performed in MySql Workbench. 
 
-PART 2 : ANALYSE TRADING ACTIVITY DATA
+TASK 2 : ANALYSE TRADING ACTIVITY DATA
 
 This part of the challenge I choose to work on visualizations in Tableau.
 
-PART 3 : CLUSTER CUSTOMERS
+TASK 3 : CLUSTER CUSTOMERS
 
+This part of the challenge was done in Python. To cluster the Customers I used Kmeans ML Model to train the Data and we get 6 clusters i.e K=5.
+I do some Further analysis on the Cluster of Customers to figure who is the ideal Cluster of Customer*
+
+* Ideal Customer is the one who makes more number of trades, as Trade Republic makes money from transactions. 
+
+BONUS TASK : PREDICT THE NUMBER OF TRADES
+
+For this part of the challenge I worked using Pythons Tensorflow and Keras. 
