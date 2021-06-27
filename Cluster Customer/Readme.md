@@ -37,12 +37,16 @@ Cluster 1 is the our cluster of our ideal customers and we can see that they are
 ![2021-06-27 (16)](https://user-images.githubusercontent.com/81169091/123558280-bfa08880-d795-11eb-8f46-da2a4decce26.png)
 
 
+
+
 - [X] **PART 2: ACTIVE CUSTOMERS OVER TIME**
 
 Customers clustered in cluster_id 0 are the largest number of active users followed by cluster_id 3.
 And customer with cluster_id 1 come in at 3rd place and from a marketing view we would want to improve these numbers to make more profit
 
 ![2021-06-27 (18)](https://user-images.githubusercontent.com/81169091/123558309-e363ce80-d795-11eb-94c5-02515aa5881b.png)
+
+
 
 
 - [X] **PART 3 - PATTERN IN TRADE TIMING**
@@ -53,6 +57,8 @@ High Number of trades is done by customers in the cluster_id 1 followed by custo
 ![2021-06-27 (22)](https://user-images.githubusercontent.com/81169091/123558340-f8406200-d795-11eb-89a6-bd286108202b.png)
 
 
+
+
 - [X] **PART 4 - MONEY INVESTED / PROFITED BY CLUSTER OF CUSTOMERS**
 
 
@@ -60,6 +66,8 @@ The data tells us that customers with high in/out flow in the trade market are c
 We can be sure that customers in cluster 1 who trade the most, bring lesser money to the table compared the other clusters. 
 
 ![2021-06-27 (20)](https://user-images.githubusercontent.com/81169091/123558362-10b07c80-d796-11eb-88cb-d677c456be91.png)
+
+
 
 
 - [X] **PART 5 - CONCLUSION**
