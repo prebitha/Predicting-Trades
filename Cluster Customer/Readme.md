@@ -1,26 +1,29 @@
 # Cluster Customer
 
-I Split this task into two portions 
+In this task we have to get deeper into the data and understand the customer by segmenting them into different group and therefore we will cluster them using KMeans
+
+This Task is Split this task into two sections 
 
 ## SECTION 1. Using KMeans to predict Cluster the customers. 
 
-DETAILS : 
+To cluster the customer I have used the Kmeans Model.
 
-To cluster the customer I have used the Kmeans Model
-- [X] STEP 1 - EDA : 
+- [X] **STEP 1 - EDA :** 
 The dataset was fairly clean.
 I used the execution_size and execution_price to cluster data using Kmeans.
 
-- [X] STEP 2 - Machine Learning :
+- [X] **STEP 2 - Machine Learning :**
 So I used the Standard Scaler to scale the numerical data and ran the model. 
 
-- [X] STEP 3 - Choosing K :
+- [X] **STEP 3 - Choosing K :**
 The model suggests to have k=7 but after visualisation we can see that k=5 is more efficient
 
-- [X] STEP 4 - Visualisat & Validation
+- [X] **STEP 4 - Visualisat & Validation**
 Since TR makes money from trades our ideal customer will be the ones making the most trades and that would make cluster_id=1 our target customers followed by cluster_id=3 
 
 ![2021-06-27 (8)](https://user-images.githubusercontent.com/81169091/123558250-8c5df980-d795-11eb-9351-aeb5c49a59b0.png)
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
