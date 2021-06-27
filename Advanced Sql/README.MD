@@ -13,4 +13,4 @@ The following are the Tasks and here are the [queries](https://github.com/prebit
 - ![2021-06-27 (3)](https://user-images.githubusercontent.com/81169091/123542317-57c45080-d749-11eb-8911-3a004b22afbe.png)
 
 
-- [X] A query that will return set of 30 rows for further anaylsis.
+- [X] A query that will return set of 30 rows for further analysis.
