@@ -9,7 +9,7 @@ This Task is Split into two sections
 
 ## SECTION 1. Using KMeans to predict Cluster the customers. 
 
-To cluster the customer I have used the Kmeans Model.
+To cluster the customer I have used the Kmeans Model. [codes](https://github.com/prebitha/Predicting-Trades/blob/main/Cluster%20Customer/Cluster%20Customer.py)
 
 - [X] **STEP 1 - EDA :** 
 The dataset was fairly clean.
@@ -35,7 +35,7 @@ Since TR makes money from trades our ideal customer will be the ones making the 
 
 - [X] **PART 1 - CLUSTERED CUSTOMER PERFORMANCE**
 
-Cluster 1 is the our cluster of our ideal customers and we can see that they are the ones with the high Volume of trades throughout 
+Cluster 1 is the our cluster of our ideal customers and we can see that they are the ones with the high Volume of trades throughout. [codes here](https://github.com/prebitha/Predicting-Trades/blob/main/Cluster%20Customer/Customer%20Performance.ipynb)
 
 ![2021-06-27 (16)](https://user-images.githubusercontent.com/81169091/123558280-bfa08880-d795-11eb-8f46-da2a4decce26.png)
 
@@ -75,7 +75,7 @@ We can be sure that customers in cluster 1 who trade the most, bring lesser mone
 
 - [X] **PART 5 - CONCLUSION**
 
-OUR IDEAL CLUSTER OF CUSTOMER IS CLUSTER ID 1 AS THESE ARE THEY CUSTOMERS WITH HIGH NUMBER OF TRADES AND THEY ARE ALSO RANKED THIRD IN BEING ACTIVE USERS THROUGH THE YEAR.
+OUR IDEAL CLUSTER OF CUSTOMER IS CLUSTER ID 1 AS THESE ARE THEY CUSTOMERS WITH HIGH NUMBER OF TRADES AND THEY ARE ALSO RANKED THIRD IN BEING ACTIVE USERS THROUGH THE YEAR. 
 
 
 
