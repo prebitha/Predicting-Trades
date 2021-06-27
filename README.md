@@ -1,5 +1,8 @@
 # DATA SCIENCE CHALLENGE
 
+![image](https://user-images.githubusercontent.com/81169091/123562574-d6ec6f80-d7af-11eb-8178-f51f65087b8e.png)
+
+
 ### TASK 1: ADVANCED SQL
 
 This part of the challenge was performed in MySql Workbench. 
