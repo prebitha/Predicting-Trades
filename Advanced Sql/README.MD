@@ -1,4 +1,4 @@
-# ADVANCED SQL - <img src="https://www.sqlservertutorial.net/wp-content/uploads/sql-server-basics.svg" width="100" height="50" width='50'>
+# TASK 1 - ADVANCED SQL 🌥️
 
 ![image](https://user-images.githubusercontent.com/81169091/123560156-f0d28600-d7a0-11eb-8433-b9666bed5731.png)
 
