@@ -38,6 +38,8 @@ Since TR makes money from trades our ideal customer will be the ones making the 
 
 - [X] **PART 1 - CLUSTERED CUSTOMER PERFORMANCE**
 
+I used a new Jupyter Notebook to code for this part as the clustering useing KMeans makes the file large making it challenging to upload/use.
+
 Cluster 1 is the our cluster of our ideal customers and we can see that they are the ones with the high Volume of trades throughout. [codes here](https://github.com/prebitha/Predicting-Trades/blob/main/Cluster%20Customer/Customer%20Performance.ipynb)
 
 ![2021-06-27 (16)](https://user-images.githubusercontent.com/81169091/123558280-bfa08880-d795-11eb-8f46-da2a4decce26.png)
