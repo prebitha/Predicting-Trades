@@ -9,9 +9,14 @@ This part of the challenge was performed in MySql Workbench. [codes here](https:
 
 ### TASK 2 : ANALYSE TRADING ACTIVITY DATA
 
-
-Its called Analyse Trading Activity accross the world because if you hover through the countries you can see the analysis of trading data accross countries like there are more Electronics Sectors
 This part of the challenge I choose to work on visualizations in Tableau. [Tableau Link](https://public.tableau.com/app/profile/prebitha.staphney.abraham/viz/TR-Task/Dashboard1)
+
+Click on the countries to analyze trade patterns across countries:
+1. Monthly Volume
+2. Cumulative Customer
+3. Trading Trend through weekdays
+4. Popular Instruments for Trading
+5. Popular Sectors for Trading
 
 ![2021-06-28 (15)](https://user-images.githubusercontent.com/81169091/123562504-647b8f80-d7af-11eb-8fa5-a2e8fbd535d3.png)
 
