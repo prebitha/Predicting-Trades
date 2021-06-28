@@ -5,7 +5,7 @@
 
 ### TASK 1: ADVANCED SQL
 
-This part of the challenge was performed in MySql Workbench. 
+This part of the challenge was performed in MySql Workbench. [codes here](https://github.com/prebitha/Predicting-Trades/blob/main/Advanced%20Sql/Advanced_Sql.sql) and [Snippets of output](https://github.com/prebitha/Predicting-Trades/tree/main/Advanced%20Sql)
 
 ### TASK 2 : ANALYSE TRADING ACTIVITY DATA
 
