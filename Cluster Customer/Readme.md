@@ -7,7 +7,7 @@ In this task we have to get deeper into the data and understand the customer by 
 
 This Task is Split into two sections 
 
-## SECTION 1. Using KMeans to predict Cluster the customers. 
+## SECTION 1. Using KMeans to predict Clusters for the customers. 
 
 To cluster the customer I have used the Kmeans Model. [codes](https://github.com/prebitha/Predicting-Trades/blob/main/Cluster%20Customer/Cluster%20Customer.py)
 
@@ -24,7 +24,7 @@ I use the Elbow Method we visualise and can see that k=5 is more efficient.
 ![2021-06-28 (18)](https://user-images.githubusercontent.com/81169091/123597807-163caf80-d7f4-11eb-859f-1e82f3ba88ae.png)
 
 
-- [X] **STEP 4 - Visualisat & Validation**
+- [X] **STEP 4 - Visualise & Validation**
 Since TR makes money from trades our ideal customer will be the ones making the most trades and that would make cluster_id=1 our target customers followed by cluster_id=3 
 
 ![2021-06-27 (8)](https://user-images.githubusercontent.com/81169091/123558250-8c5df980-d795-11eb-9351-aeb5c49a59b0.png)
@@ -34,13 +34,12 @@ Since TR makes money from trades our ideal customer will be the ones making the 
 
 
 ## SECTION 2. Analysis on the Clustered Customers.
- 
+
+ I used a new Jupyter Notebook to code for this part as the clustering useing KMeans makes the file large making it challenging to upload/use. [codes here](https://github.com/prebitha/Predicting-Trades/blob/main/Cluster%20Customer/Customer%20Performance.ipynb)
 
 - [X] **PART 1 - CLUSTERED CUSTOMER PERFORMANCE**
 
-I used a new Jupyter Notebook to code for this part as the clustering useing KMeans makes the file large making it challenging to upload/use.
-
-Cluster 1 is the our cluster of our ideal customers and we can see that they are the ones with the high Volume of trades throughout. [codes here](https://github.com/prebitha/Predicting-Trades/blob/main/Cluster%20Customer/Customer%20Performance.ipynb)
+Cluster 1 is the our cluster of our ideal customers and we can see that they are the ones with the high Volume of trades throughout. 
 
 ![2021-06-27 (16)](https://user-images.githubusercontent.com/81169091/123558280-bfa08880-d795-11eb-8f46-da2a4decce26.png)
 
