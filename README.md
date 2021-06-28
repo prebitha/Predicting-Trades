@@ -31,3 +31,6 @@ I do some Further analysis on the Cluster of Customers to figure who is the idea
 ### BONUS TASK : PREDICT THE NUMBER OF TRADES
 
 For this part of the challenge I worked using Pythons Tensorflow and Keras.  [Link](https://github.com/prebitha/Predicting-Trades/tree/main/Predict%20Trades)
+
+
+Here is the presentation to summarize [link](https://pasteapp.com/p/clbm7YH5fAg?view=qCCqKpDGMKP)
