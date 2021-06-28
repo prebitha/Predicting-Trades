@@ -56,6 +56,8 @@ FINALLY - so now we will train the model and test it to predict the number of tr
 
 ## CONCLUSION 
 
+The data predicts a higher number of trades as in the case of Customer 6276 we can that he/she is predicted to more trades.
+
 The data tells us that our model is about close to the actual number of trades in September. If we can more time series data then we can train the model better and thus a better prediction.
 The data predicts a higher number of trades as in the case of Customer 6276 we can that he/she is predicted to more trades.
 
