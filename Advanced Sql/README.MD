@@ -13,8 +13,8 @@ The following are the Tasks and here are the [queries](https://github.com/prebit
 
 
 - [X] An query to indicate trading volume for each day ( sum of all trade total of that day).
+   ![2021-06-28 (23)](https://user-images.githubusercontent.com/81169091/123625586-2d899600-d810-11eb-8903-158e82ea1761.png)
 
-  ![2021-06-28 (22)](https://user-images.githubusercontent.com/81169091/123625476-12b72180-d810-11eb-80ae-a53fc03239ae.png)
 
 
 
