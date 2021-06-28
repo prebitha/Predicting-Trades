@@ -21,15 +21,16 @@ group by date(execution_time);
 
 # 2. An query to indicate trading volume for each day ( sum of all trade total of that day).
 
-SELECT customer_id as user, direction, date(execution_time) as date ,count(execution_size) as total 
+SELECT date(execution_time) as date , customer_id as user, direction, count(execution_size) as total 
 from trades
-group by date(execution_time) ;
+group by date(execution_time);
 
 #-------------------------------------------------------------------------------------------------------------------------------------
 
 # 3. A query that will return set of 30 rows for further anaylsis.
 
-SELECT customer_id as user, direction, date(execution_time) as date ,count(execution_size) as total 
+
+SELECT date(execution_time) as date , customer_id as user, direction, count(execution_size) as total 
 from trades
 group by date(execution_time)
 limit 30;
