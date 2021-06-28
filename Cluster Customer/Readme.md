@@ -19,7 +19,10 @@ I used the execution_size and execution_price to cluster data using Kmeans.
 So I used the Standard Scaler to scale the numerical data and ran the model. 
 
 - [X] **STEP 3 - Choosing K :**
-The model suggests to have k=7 but after visualisation we can see that k=5 is more efficient
+I use the Elbow Method we visualise and can see that k=5 is more efficient.
+
+![2021-06-28 (18)](https://user-images.githubusercontent.com/81169091/123597807-163caf80-d7f4-11eb-859f-1e82f3ba88ae.png)
+
 
 - [X] **STEP 4 - Visualisat & Validation**
 Since TR makes money from trades our ideal customer will be the ones making the most trades and that would make cluster_id=1 our target customers followed by cluster_id=3 
