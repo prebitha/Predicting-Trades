@@ -18,3 +18,5 @@ The following are the Tasks and here are the [queries](https://github.com/prebit
 
 
 - [X] A query that will return set of 30 rows for further analysis.
+
+I added the Limit(30) statment to the previous query and we can analyse 30 rows.
