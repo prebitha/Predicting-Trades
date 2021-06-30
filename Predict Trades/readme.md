@@ -53,7 +53,7 @@ FINALLY - so now we will train the model and test it to predict the number of tr
 
 ![2021-06-30 (3)](https://user-images.githubusercontent.com/81169091/124027548-4dc57a80-d9f3-11eb-8165-92e88de9b9cf.png)
 
-Voila !! This works, So we can predict Number of Trades after the 6th month !! 
+Eureka !! This works, So we can predict Number of Trades after the 6th month !! 
 
 ## CONCLUSION 
 
