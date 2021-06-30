@@ -51,13 +51,15 @@ FINALLY - so now we will train the model and test it to predict the number of tr
 
 **STEP 7** : Visualise
 
-![2021-06-26 (22)](https://user-images.githubusercontent.com/81169091/123558867-edd39780-d798-11eb-9a84-676482590db8.png)
-![2021-06-26 (29)](https://user-images.githubusercontent.com/81169091/123558869-f62bd280-d798-11eb-8ab0-f5d68bcdb84c.png)
+![2021-06-30 (3)](https://user-images.githubusercontent.com/81169091/124027548-4dc57a80-d9f3-11eb-8165-92e88de9b9cf.png)
+
+Voila !! This works, So we can predict Number of Trades after the 6th month !! 
 
 ## CONCLUSION 
 
-The data predicts a higher number of trades as in the case of Customer 6276 we can that he/she is predicted to more trades.
+The data predicts a higher number of trades as in the case of Customer 6276 we can that he/she is predicted to do mpre number of trades.
+![2021-06-30 (2)](https://user-images.githubusercontent.com/81169091/124027759-836a6380-d9f3-11eb-90d5-ddd4a592edd9.png)
 
-The data tells us that our model is about close to the actual number of trades in September. If we can more time series data then we can train the model better and thus a better prediction.
-The data predicts a higher number of trades as in the case of Customer 6276 we can that he/she is predicted to more trades.
+
+To wrap it up. we do have a model taht predicts Good with an adjusted r squared of 1. 
 
